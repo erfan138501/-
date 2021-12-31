@@ -1,5 +1,5 @@
 {
   "متن": "نصب کن",
-  "لینک": "https://getandroid.ir/download/apps/internet/1940-Adblock-Plus.html",
+  "لینک": "https://s4.uupload.ir/files/1640934830950_xs38.jpg",
   "تصویر": "https://s4.uupload.ir/files/1640852693225_rn07.png"
 }
